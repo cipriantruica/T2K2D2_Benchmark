@@ -1,1 +1,1 @@
-T2K2:  The Twitter Top-K Keywords Benchmark
+T2K2D:  The Twitter Top-K Keywords and Documents Benchmark
