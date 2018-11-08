@@ -9,5 +9,5 @@ Truică, Ciprian-Octavian and Darmont, Jérôme. *T<sup>2</sup>K<sup>2</sup>: Th
 
 ## The T<sup>2</sup>K<sup>2</sup> and T<sup>2</sup>K<sup>2</sup>D<sup>2</sup> benckmarks are described and evaluated in the following paper:
 
-Truică, Ciprian-Octavian and Darmont, Jérôme and Boicea, Alexandru and Rădulescu, Florin. *Benchmarking Top-K Keyword and Top-K Document Processing with T<sup>2</sup>K<sup>2</sup> and T<sup>2</sup>K<sup>2</sup>D<sup>2</sup>*, In Future Generation Computer Systems Journal (Special issue on Big Data Benchmarking), 2018, (In Press), DOI: [10.1016/j.future.2018.02.037](https://doi.org/10.1016/j.future.2018.02.037).
+Truică, Ciprian-Octavian and Darmont, Jérôme and Boicea, Alexandru and Rădulescu, Florin. *Benchmarking Top-K Keyword and Top-K Document Processing with T<sup>2</sup>K<sup>2</sup> and T<sup>2</sup>K<sup>2</sup>D<sup>2</sup>*, In Future Generation Computer Systems. Elsevier, vol. 85, ISSN 0167--739X, pp. 60--75, August 2018, DOI: [10.1016/j.future.2018.02.037](https://doi.org/10.1016/j.future.2018.02.037).
 
